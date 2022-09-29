@@ -1,4 +1,4 @@
-# Mean and Variance
+# Mean and variance
 
 
 # Aim : 
