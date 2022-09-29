@@ -1,4 +1,4 @@
-#  Mean and variance using discrete  distribution
+#  Mean and variance of a discrete  distribution
 
 
 # Aim : 
