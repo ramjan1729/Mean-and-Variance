@@ -1,4 +1,4 @@
-# Mean and Variance 
+# Mean and Variance
 
 
 # Aim : 
@@ -26,20 +26,18 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Procedure :
 
-1. Construct frequency distribution  for the data
+1. Construct frequency distribution for the data
 
 2. Find the  probbaility distribution from frequency distribution.
 
 3. Find Mean using the formula 
+![image](https://user-images.githubusercontent.com/103921593/192940431-03b81777-c54d-4286-b4f4-82dfe7666b4c.png)
 
-         ![image](https://user-images.githubusercontent.com/103921593/192940431-03b81777-c54d-4286-b4f4-82dfe7666b4c.png)
-
-4. Find  
-
-         ![image](https://user-images.githubusercontent.com/103921593/192940255-2d9dd746-6875-4a6d-877b-6da6cdb96ab1.png)
+4. Find  ![image](https://user-images.githubusercontent.com/103921593/192940255-2d9dd746-6875-4a6d-877b-6da6cdb96ab1.png)
 
 5. Find variance using the formula
 
+![image](https://user-images.githubusercontent.com/103921593/192942852-913550a9-fabe-4a55-b956-0487b18bbd97.png)
 
 
 # Experiment :
